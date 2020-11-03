@@ -3,6 +3,7 @@
 # Steps To Run This:
 - git clone https://github.com/krishpranav/go-rest-api
 - cd go-rest-api
+- github.com/gorilla/mux
 - chmod +x main.go
 - go run main.go
 
